@@ -1,4 +1,4 @@
-NDIMBAL SHOP — REDESIGN STARTER
+Ndimbal Shop website update NDIMBAL SHOP — REDESIGN STARTER
 
 Included:
 - index.html: responsive French-language luxury boutique + multi-category marketplace starter.
